@@ -9,7 +9,7 @@ oratio therapy system sprint 0 - 1 - 2
 # sprint03
 oratio therapy system sprint 0 - 1 - 2 - 3
 
-# sprint04 - finale
+# sprint04 - finale - installazione
 oratio therapy system sprint 0 - 1 - 2 - 3 - 4
 
 Attvita' svolta da Federica Di Serio:
